@@ -1,0 +1,11 @@
+{
+  "name": " Remix  KalaVerse1",
+  "description": "Traditional Indian art and craft promotion platform featuring KalaKaar (KalaSathi AI, KalaLens vision analysis, community, workshops, marketplace), KalaTour art itineraries, and gamified KalaLearn state language learning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
